@@ -11,7 +11,8 @@ etc.
 These scales are used in the RCT StrokeFit4, recruiting post-acute stroke patients. Protocol described in [1].
 Complete explanation of each scale is reported in the paper [cit]
 
-
+## Usage
+Download the zip of the scales you're interested in and simply import it in your REDCap project.
 
 
 ### References
